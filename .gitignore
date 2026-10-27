@@ -1,0 +1,8 @@
+docs/sample-assets/
+private/
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.vercel/
